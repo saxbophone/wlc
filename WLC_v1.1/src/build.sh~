@@ -1,0 +1,3 @@
+cd "${0%/*}"
+cd ..
+g++ 'src/wlc.cpp' -o 'bin/wlc-1.1-linux'

@@ -1,0 +1,2 @@
+#define WORD 7 //this value needs to be changed to however many words you decide to put in the line below.
+string words[WORD] = { "this", "is", "where", "your", "word", "defs", "go!" };

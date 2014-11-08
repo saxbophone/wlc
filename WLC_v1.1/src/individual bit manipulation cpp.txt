@@ -1,0 +1,12 @@
+C++ individual bit manipulation (in unsigned char)
+
+If you want access bit N:
+
+Get: (INPUT >> N) & 1;
+
+Set: INPUT |= 1 << N;
+
+Unset: INPUT &= ~(1 << N);
+
+Toggle: INPUT ^= 1 << N;
+

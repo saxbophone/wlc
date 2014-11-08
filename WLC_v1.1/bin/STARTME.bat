@@ -1,0 +1,2 @@
+echo TYPE IN wlc TO RUN THE PROGRAM
+cmd

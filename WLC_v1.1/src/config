@@ -1,0 +1,9 @@
+//config file for wlc - nicer than having to open the whole source file to change settings! ;)
+#define LANG "en-GB"
+#define TITLE "Word-ladder-Cracker [WLC]"
+#define VERSION 1.1
+#define ACKNOWLEDGE "J.A.SAXBY"
+#define WRITTEN "Oct 12 2012"
+#define UPDATED "Feb 1 2013"
+#define DESCRIPTION "WLC will solve a 4-letter word-ladder puzzle (the type of puzzle originally invented by Lewis Caroll in 1877)"
+#define HELP "Type two four letter words (lower case please) and WLC will attempt to create a word-ladder solution between them"
